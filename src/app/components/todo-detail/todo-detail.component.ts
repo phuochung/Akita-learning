@@ -1,5 +1,5 @@
 import { Component, OnInit, Output, EventEmitter, Input } from '@angular/core';
-import { TodosService } from 'src/app/services/todos.service';
+import { TodosService } from '../../services/todos.service';
 declare var $: any;
 
 @Component({
